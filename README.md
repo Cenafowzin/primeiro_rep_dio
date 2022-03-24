@@ -1,2 +1,2 @@
 # primeiro_rep_dio
-Desafio de projeto Git/Github
+Desafio de projeto Git/GitHub
