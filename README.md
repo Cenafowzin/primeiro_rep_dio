@@ -1,2 +1,2 @@
-# primeiro_rep_dio
+# Primeiro Repositório DIO
 Desafio de projeto Git/GitHub
